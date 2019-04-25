@@ -1,2 +1,2 @@
 # Catch-it
-2D based offline game made with Unity3D engine
+2D based offline android game made with Unity3D engine
